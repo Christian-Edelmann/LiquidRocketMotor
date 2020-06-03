@@ -21,4 +21,9 @@ them). I updated the manufacturing ideas and added notes that it is all
 preliminary and speculative. I added to some of the propellant section discussing
 the reaction balance and the corresponding ratios that would result.
 
+5/28/2020 - Started a lot of the compressible flow dynamics. Its slow going and I
+need to find more worked out example of going through the math. I might also consider
+reviewing incompressible flow as well. I also need to figure out how to integrate
+the thermodynamics into the fluid calculations.
+
 Christian - 2020
