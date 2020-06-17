@@ -37,4 +37,12 @@ like to have the solidworks design linked to that file so if I change the
 underlying assumptions the design will evolve with it. SO basically here comes the
 hard part.
 
+6/16/2020 - I completed some preliminary equations to solve for the isentropic
+states at the chamber, throat, and exit of the nozzle. The next step is create
+an algorithum that uses the state properties of critical areas to create an
+optimal nozzle shape. This is what I will use to then start my simulations. At
+the same time I will need to start to investigate the injector design. The
+injector will determine the chamber shape and length (mixing efficiency and spray
+pattern).
+
 Christian - 2020
